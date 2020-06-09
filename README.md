@@ -11,4 +11,4 @@ This animated graph was programmed from scratch using D3. You can hover over eac
 
 ![](images/Tableau.png)
 ![](images/Tableau_pie.png)
-These graphs were created with tableau. They shows how accurate our machine learning algorithms were.
+These last two graphs were created with tableau. They shows how accurate our machine learning algorithms were. It was a lot quicker and easier to make these graphs with tableau than programming them from scratch with D3 but they lack the cool animations.
